@@ -128,7 +128,3 @@
 ### Association
 
 - has_many :items
-
-
-----------
-test fork yokan
